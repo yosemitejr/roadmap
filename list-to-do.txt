@@ -1,3 +1,4 @@
 Mastering JS
 Mastering MEAN
 Mastering Data Science
+Mastering Machine Learning
