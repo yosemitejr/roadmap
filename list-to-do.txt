@@ -1,4 +1,5 @@
-Mastering JS
+Mastering nodeJS
 Mastering MEAN
 Mastering Data Science
+Mastering Deep Learning
 Mastering Machine Learning
